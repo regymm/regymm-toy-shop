@@ -1,30 +1,30 @@
 # ----
 # Site
 
-title: Fur
-url: "http://turquoise-rook.cloudvent.net/"
+title: "regymm's toy shop"
+url: "http://regymm.github.io/regymm-top-shop"
 baseurl:
-google_analytics_key:
-google_maps_javascript_api_key:
-snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
-snipcart_currency: "usd"
+#google_analytics_key:
+#google_maps_javascript_api_key:
+#snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
+#snipcart_currency: "usd"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: Fur t-shirt store
+#logo: /siteicon.png
+#description: Fur t-shirt store
 author:
-  name: fur
-  email: fur@example.com
-  twitter: fur # twitter username without the @ symbol
-  phone: "+1 23456789"
-social:
-  name: Fur Template
-  links:
-    - https://github.com/CloudCannon/fur-jekyll-template
+  name: regymm
+  email: ustcymgu@gmail.com
+  twitter: regymm0 # twitter username without the @ symbol
+  #phone: "+1 23456789"
+#social:
+  #name: Fur Template
+  #links:
+    #- https://github.com/CloudCannon/fur-jekyll-template
 
 # -----
 # Build
-timezone: Etc/UTC
+#timezone: Etc/UTC
 
 collections:
   staff_members:
@@ -66,14 +66,14 @@ exclude:
   - README.md
   - LICENCE
 
-social_icons:
-  - Email
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - RSS
+#social_icons:
+  #- Email
+  #- Twitter
+  #- RSS
+  #- Facebook
+  #- Google Plus
+  #- Instagram
+  #- LinkedIn
+  #- Pinterest
+  #- Tumblr
+  #- YouTube

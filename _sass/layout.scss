@@ -30,7 +30,7 @@
 
 	@media (min-width: 500px) {
 		h2 {
-			font-size: 3.5rem;
+			font-size: 2.7rem;
 		}
 	}
 
@@ -60,7 +60,7 @@
 	}
 
 	span {
-		font-size: 16px;
+		font-size: 20px;
 		position: relative;
 		top: -6px;
 		left: 3px;
@@ -78,7 +78,7 @@
 }
 
 section {
-	padding: 100px 0;
+	padding: 20px 0;
 }
 
 section + section {
@@ -153,5 +153,5 @@ blockquote .quote:after {
 
 .thirds div {
 	flex: 1 1 200px;
-	padding: 100px 40px 0 40px;
+	padding: 40px 40px 0 40px;
 }
