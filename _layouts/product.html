@@ -5,18 +5,27 @@ layout: default
 	<section class="page">
 		<div class="container">
 			<div class="product-container">
+				<!--<div class="styles">-->
+					<!--{% for style in include.product.styles %}-->
+						<!--<div class="style" data-item-id="{{ forloop.index }}" {% unless forloop.first %}style="display: none"{% endunless %}>-->
+							<!--<a href="{{ include.product.url }}">-->
+								<!--<img src="{{ site.baseurl }}{{ style.image }}">-->
+							<!--</a>-->
+						<!--</div>-->
+					<!--{% endfor %}-->
+				<!--</div>-->
+
 				{% include product-styles.html product=page %}
 				<div class="product-details" id="add">
 					<h3>{{ page.name }}</h3>
 					<h4>${{ page.price }}</h4>
+					<!--<i>&#8220;{{ page.description_markdown | markdownify }}&#8221;</i>-->
 					<i>{{ page.description_markdown | markdownify }}</i>
-					{{ page.description_markdown_full | markdownify }}
-
-					<div class="button">{% include snipcart-button.html product=page %}</div>
+					<div class="editable">
+					{{ page.description_markdown_full | newline_to_br | markdownify }}
+					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 </div>
-
-<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
