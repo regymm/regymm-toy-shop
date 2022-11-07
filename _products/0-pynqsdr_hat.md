@@ -10,8 +10,8 @@ description_markdown_full: |
   Items included: PYNQSDR HAT itself, HDMI cable x2, PMOD bridge x2, Antenna x2, SMA adapter x2. See picture below. <i>PYNQ-Z1 itself is NOT included!</i><br/>
   Connection: The 3 SMA connectors(2 used, one spare) on HAT are SMA-P(ordinary standard), the adapters are SMA-J to RP-SMA-P, the antennae are RP-SMA-J(WiFi standard). See picture below. <br/>
   Setup guide and software support will come later. <br/>
-  ![](/images/products/pynqsdr_hat/1.jpg)
-  ![](/images/products/pynqsdr_hat/2.jpg)
+  ![](/regymm-toy-shop/images/products/pynqsdr_hat/1.jpg)
+  ![](/regymm-toy-shop/images/products/pynqsdr_hat/2.jpg)
 
 price: '150.00'
 stock: 0
