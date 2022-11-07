@@ -2,8 +2,8 @@
 # Site
 
 title: "regymm's toy shop"
-url: "http://regymm.github.io/regymm-top-shop"
-baseurl:
+url: "https://regymm.github.io"
+baseurl: "/regymm-toy-shop"
 #google_analytics_key:
 #google_maps_javascript_api_key:
 #snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
