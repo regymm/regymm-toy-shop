@@ -13,7 +13,7 @@ description_markdown_full: |
   ![](/regymm-toy-shop/images/products/pynqsdr_hat/1.jpg)
   ![](/regymm-toy-shop/images/products/pynqsdr_hat/2.jpg)
 
-price: '150.00'
+price: '125.00'
 stock: 0
 styles:
   - image: /images/products/pynqsdr_hat/0.jpg
