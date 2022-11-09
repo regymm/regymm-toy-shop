@@ -4,6 +4,8 @@ description_markdown: >-
   The add-on that brings openwifi to PYNQ-Z1 
 description_markdown_full: |
   <br/>
+  <b>One PYNQSDR HAT + PYNQ-Z1 ready-to-use combination for sale at 325$!</b><br/>
+  <b>Few early debugging version for sale at 95$!</b><br/>
   The original idea from late 2021, now ready for sale. Even with a new 299$ PYNQ-Z1, this combo is still the cheapest available openwifi-capable platform(as of late 2022). <br/>
   Functions: PlutoSDR firmware, iio-oscilloscope, GQRX, dump1090, GNURadio, openwifi firmware, WiFi hotspot, packets capture, connect to other hotspots, and more. <br/>
   Why this: On usual ZYNQ + AD936X combinations, the two chips are tightly coupled on one board, making it hard if even possible to utilize the ZYNQ for general FPGA development. But here, with the extension removable, you still have a fully-functional PYNQ-Z1 ready for anything. So it's especially suitable for FPGA person who want to have a taste of SDR(like me), or vise versa. <br/>
