@@ -5,8 +5,7 @@ description_markdown: >-
 description_markdown_full: |
   This crazy set of boards enables you to use our beloved EBAZ4205 miner controller as RF workhorse! It runs PlutoSDR firmware, yet cheaper than PlutoSDR itself. Of course, openwifi can't fit into this small ZYNQ-7010 FPGA. <br/>
   **Fabrication will start after current batch of PYNQSDR HAT are sucessfully sold. If you buy the 125$ HAT now, later you can get the other parts in this set at a discounted price.** <br/>
-  Coming soon ... 
-price: ' <200.00'
+price: ' 1??.00'
 stock: 0
 styles:
   - name: Green
